@@ -1,2 +1,4 @@
 # Project4
-This is a project made to demonstrate the use of animation using basic HTML CSS and JS
+To demonstrate the use of Basic navigation animations with the help of JS and HTMl, CSS
+project is hosted and is available github pages visit : https://shashanky21.github.io/Project4/
+
